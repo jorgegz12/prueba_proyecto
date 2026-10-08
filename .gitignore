@@ -1,0 +1,17 @@
+# Archivos compilados
+*.class
+
+# Carpetas generadas
+build/
+dist/
+target/
+.gradle/
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Registros
+*.log
+
+# Variables y secretos
+.env
